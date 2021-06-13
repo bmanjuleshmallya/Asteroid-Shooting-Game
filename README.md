@@ -27,8 +27,6 @@ Games are played in moderation and with mindfulness, they are a viable source of
 
 The amount of play time is also an important factor in the effects of gaming. Although excessive playtime can have negative consequence, gaming in moderation can be healthy, fun, and educational. 
 
-For result [click here](/Result img&vid)
-
 ## Reference Links
 
 [https://www.opengl.org/resources/libraries/glut/spec3/node1.html](https://www.opengl.org/resources/libraries/glut/spec3/node1.html)
